@@ -1,0 +1,2 @@
+# minni
+🤖 Minni Discord Bot
